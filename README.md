@@ -1,4 +1,4 @@
-# Candle Auction Contract Setup Guide
+# Candle Auction Contract 
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ This guide will walk you through setting up a Candle Auction contract using Truf
 - Truffle installed (`npm install -g truffle`)
 - A local Ethereum blockchain (e.g., Ganache)
 
-## 3. Steps to Setup
+# Steps to Setup
 ### 1. Clone the repositery
 
    ```bash
